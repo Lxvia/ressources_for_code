@@ -22,6 +22,7 @@ https://www.colorbackground.com/polygon (Backgrounds)<br>
 https://patternpad.com/ (Background patterns)<br>
 https://bgjar.com/ (SVG Generator for bg)<br>
 https://animatedbackgrounds.me/ (Backgrounds animés en SVG)<br>
+https://lottiefiles.com/ (Animations SVG)<br>
 <br>
 <br>
 <h3>Illustrations:</h3><br>
